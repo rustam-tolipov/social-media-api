@@ -50,10 +50,8 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -61,6 +59,14 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+
+### Guest User
+```
+LOGIN:
+
+ email: tester@gmail.com
+ password: password
+```
 
 <img width="1440" alt="Screenshot 2023-01-16 at 15 24 03" src="https://user-images.githubusercontent.com/69011963/212655861-67f1069c-6365-442a-8b9f-8d1333c74ed6.png">
 

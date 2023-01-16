@@ -171,5 +171,5 @@ Project Link: [https://github.com/Rustamxon7/social-media-api](https://github.co
 [license-shield]: https://img.shields.io/github/license/Rustamxon7/social-media-api.svg?style=for-the-badge
 [license-url]: https://github.com/Rustamxon7/social-media-api/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/www.linkedin.com/in/rustam-tolipov
+[linkedin-url]: https://linkedin.com/in/rustam-tolipov
 [product-screenshot]: images/screenshot.png

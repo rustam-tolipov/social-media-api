@@ -21,7 +21,7 @@
     <a href="https://github.com/Rustamxon7/social-media-api"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Rustamxon7/social-media-api">View Demo</a>
+    <a href="https://social-media-api.fly.dev/">View Demo</a>
     ·
     <a href="https://github.com/Rustamxon7/social-media-api/issues">Report Bug</a>
     ·

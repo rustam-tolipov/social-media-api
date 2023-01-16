@@ -1,4 +1,5 @@
 <div id="top"></div>
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -67,6 +68,7 @@
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 The Instagram Clone API is a powerful tool for creating a social media application with all the features of Instagram. Built using Ruby on Rails 7, the API is equipped with a variety of features to provide a seamless user experience. The API is designed to be easy to integrate, with Swagger UI for easy navigation and Devise for secure authentication.
+
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>

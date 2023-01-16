@@ -16,7 +16,7 @@
 <h3 align="center">Social Media API</h3>
 
   <p align="center">
-    project_description
+    This API is a clone of Instagram's functionality and it provides a comprehensive solution for creating a social media app. Built with Ruby on Rails 7 and equipped with Swagger UI, this API offers seamless integration and easy navigation.
     <br />
     <a href="https://github.com/Rustamxon7/social-media-api"><strong>Explore the docs »</strong></a>
     <br />

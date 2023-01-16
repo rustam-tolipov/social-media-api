@@ -62,7 +62,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<img width="1440" alt="Screenshot 2023-01-16 at 15 24 03" src="https://user-images.githubusercontent.com/69011963/212655861-67f1069c-6365-442a-8b9f-8d1333c74ed6.png">
 
 The Instagram Clone API is a powerful tool for creating a social media application with all the features of Instagram. Built using Ruby on Rails 7, the API is equipped with a variety of features to provide a seamless user experience. The API is designed to be easy to integrate, with Swagger UI for easy navigation and Devise for secure authentication.
 
@@ -91,11 +91,12 @@ This is an example of how you may give instructions on setting up your project l
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
   ```sh
-  npm install npm@latest -g
+  rails -v
+  Rails 7.0.4
+
+  ruby -v
+  ruby 3.1.3
   ```
 
 ### Installation

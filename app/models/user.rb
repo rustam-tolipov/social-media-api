@@ -19,7 +19,7 @@ class User < ApplicationRecord
 
   mount_uploader :avatar, ImageUploader
 
-  scope :search, ->(query) { where("username ILIKE ? OR first_name ILIKE ? OR last_name ILIKE ?", "%#{query}%", "%#{query}%", "%#{query}%") }
+  scope :search, ->(query) { query.present? ? where("username ILIKE ? OR first_name ILIKE ? OR last_name ILIKE ?", "%#{query}%", "%#{query}%", "%#{query}%") : none }
 
   scope :following?, ->(user) { followees.include?(user) }
   scope :followers?, ->(user) { followers.include?(user) }
